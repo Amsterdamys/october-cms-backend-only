@@ -1,0 +1,15 @@
+{
+    "name": "amsterdamys/october-cms-backend-only",
+    "description": "Does not allow to pass other pages of october cms but backend",
+    "type": "library",
+    "require": {
+        "laravel/laravel": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*"
+    },
+    "authors": [
+        {
+            "name": "Eugene",
+            "email": "zarkovsky@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
