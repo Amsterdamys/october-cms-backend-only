@@ -1,6 +1,6 @@
 <?php
 
-namespace Weblabspro\Providers;
+namespace Amsterdamys\OctoberCmsBackendOnly;
 
 use Illuminate\Support\ServiceProvider;
 
