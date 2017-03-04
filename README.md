@@ -5,5 +5,6 @@ Displays only backend in october cms
 
 Add ServiceProvider to the providers array in app/config/app.php
 
-`Anhskohbo\NoCaptcha\NoCaptchaServiceProvider::class,`
+`Amsterdamys\OctoberCmsBackendOnly\RedirectServiceProvider::class,`
 
+Now, your application will be redirected from others pages to the backend automatically
