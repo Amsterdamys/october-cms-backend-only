@@ -11,5 +11,10 @@
             "email": "zarkovsky@yandex.ru"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Amsterdamys\\OctoberCmsBackendOnly\\": "src/"
+        }
+    }
 }
