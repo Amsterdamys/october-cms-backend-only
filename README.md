@@ -2,7 +2,7 @@
 
 Sometimes you may need to use october cms only as a control panel, 
 and you're gonna face with issues when non-backend pages are still accessed.
-That library painfully resolves this problem.
+That library painlessly resolves this problem.
 
 ## Installation via [composer](https://getcomposer.org/)
 
