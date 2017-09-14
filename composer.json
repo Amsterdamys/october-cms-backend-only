@@ -3,7 +3,7 @@
     "description": "Does not allow to pass other pages of october cms but backend",
     "type": "library",
     "require": {
-        "laravel/laravel": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*"
+        "laravel/laravel": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*"
     },
     "authors": [
         {
